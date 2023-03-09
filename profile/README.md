@@ -67,6 +67,7 @@ https://www.notion.so/6-9286f512bafd43a3ac152ee3357f0a12
 ---
 
 ## 🎬 시연영상
+https://www.youtube.com/watch?v=KTd336gbbYs
 
 ---
 
