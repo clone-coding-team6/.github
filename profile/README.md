@@ -22,7 +22,8 @@
     - React
 - BE
     - Java
-    - Spring Boot
+    ![springboot](https://user-images.githubusercontent.com/121671967/223954196-e6f97f74-b3bf-433c-b6bc-6617ad4d8daf.svg)
+
     - Spring Security
     - Spring Data JPA
     - Springfox Swagger UI
