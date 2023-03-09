@@ -63,8 +63,6 @@
 
 ---
 
----
-
 ## 📋 와이어 프레임
 
 - Login
@@ -97,6 +95,9 @@
 ---
 
 ## 📄 ERD
+
+<img width="1496" alt="image" src="https://user-images.githubusercontent.com/121671967/223958067-b9b92923-5c89-4b09-8c34-4c92bc9cd08f.png">
+
 
 ---
 
