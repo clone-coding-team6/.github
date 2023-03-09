@@ -91,8 +91,7 @@
 
 ## 📜 API 문서
 
-![스크린샷 2023-03-09 161954](https://user-images.githubusercontent.com/121671967/223949272-67468f0d-a17f-4642-9972-8a36497a322e.png)
-
+![API 명세서](https://user-images.githubusercontent.com/121671967/223951097-ca91acbb-93e7-4db3-b2ff-bb3c3608adbb.png)
    
 ---
 
