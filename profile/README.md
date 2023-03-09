@@ -1,4 +1,29 @@
 ---
+## 📋 프로젝트 이름
+
+- 인스타그램_클론코딩
+---
+# 💎 클론코딩 프로젝트 소개
+
+- 인스타그램
+---
+## 📆 개발기간
+
+ 2022.03.03 ~ 2022.03.09
+ ---
+ ## 🛠️ 기술스택
+
+- FE
+    - React
+- BE
+    - Spring Boot
+    - Spring Security
+    - Spring Data JPA
+    - Springfox Swagger UI
+    - Querydsl
+    - MySQL
+    - Amazon Web Services
+---
 ## 👥 조원 정보
 |이름|  구분   |        업무파트        |           Github 주소           |
 |:---:|:-----:|:------------------:|:-----------------------------:|
