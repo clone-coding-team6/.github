@@ -32,27 +32,31 @@
 
 - Login
     
+    ![스크린샷 2023-03-03 오전 11 31 54](https://user-images.githubusercontent.com/121671967/223946881-df740d13-ce44-4b6d-9f8f-5b60cfd1e48f.png)
+
     
-    ![스크린샷 2023-03-03 오전 11.31.35.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/12c6e90c-c18b-49d1-9076-9e83d9154e2f/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-03-03_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_11.31.35.png)
     
 - signup
     
     
-    ![스크린샷 2023-03-03 오전 11.31.54.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8f3cb1fd-d7b3-47f1-a031-ba6f2f7f0743/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-03-03_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_11.31.54.png)
+    ![스크린샷 2023-03-03 오전 11 31 35](https://user-images.githubusercontent.com/121671967/223946907-5f1b0989-6732-4dee-8661-ca7373c536c4.png)
+
     
 - Main
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b4a20916-1808-4d2c-a732-61c715c8cc68/Untitled.png)
+    ![Untitled](https://user-images.githubusercontent.com/121671967/223947005-28f2e388-0be5-4760-a71e-5e3d30e44035.png)
+
     
 - Main-Add Page
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fcfc17cf-4f3a-43b8-b6a6-f0220106605b/Untitled.png)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2983f607-35c1-4773-bef0-c2a6c434d633/Untitled.png)
+    ![Untitled (1)](https://user-images.githubusercontent.com/121671967/223947071-adf907ff-21b0-4f66-87e5-54a51d53b376.png)
+    ![Untitled (2)](https://user-images.githubusercontent.com/121671967/223947085-877e6007-0b89-4c5b-9e2e-82ee1f56a4ff.png)
+
     
 - Modal
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5b7d1fb5-d703-4e03-a9c6-775050dbe0b0/Untitled.png)
+    ![Untitled (3)](https://user-images.githubusercontent.com/121671967/223947122-6bd48ea8-0b94-43d8-95e1-80f6313129e5.png)
+
    
 ---
 ## 👥 조원 정보
