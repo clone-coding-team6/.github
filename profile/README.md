@@ -73,13 +73,13 @@ https://www.youtube.com/watch?v=KTd336gbbYs
 
 ## 📋 와이어 프레임
 
-- Login
+- signup
     
     ![스크린샷 2023-03-03 오전 11 31 54](https://user-images.githubusercontent.com/121671967/223946881-df740d13-ce44-4b6d-9f8f-5b60cfd1e48f.png)
 
     
     
-- signup
+- Login
     
     
     ![스크린샷 2023-03-03 오전 11 31 35](https://user-images.githubusercontent.com/121671967/223946907-5f1b0989-6732-4dee-8661-ca7373c536c4.png)
@@ -120,6 +120,6 @@ https://www.youtube.com/watch?v=KTd336gbbYs
 |:---:|:-----:|:------------------:|:-----------------------------:|
 |이승렬|  백엔드  | 이미지, 좋아요, S3 기능, 서버 배포  |  https://github.com/LEESEUNGRYEOL |
 |조민성|  백엔드  | 회원가입, 로그인, JWT TOKEN |  https://github.com/Ganpyeon  |
-|홍예석|  백엔드  | 게시굴, 댓글, SWAGGER, 무한 스크롤 | https://github.com/yshong1998 |
+|홍예석|  백엔드  | 게시글, 댓글, SWAGGER, 무한 스크롤 | https://github.com/yshong1998 |
 |백주원| 프론트엔드 | 로그인, 회원가입, 메인 페이지, 모달  |  https://github.com/baekjoowon  |
 |이주애| 프론트엔드 | 마이 페이지 | https://github.com/leejuae1020 |
